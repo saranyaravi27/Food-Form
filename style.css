@@ -1,0 +1,41 @@
+body{
+    background-image: url(./pexels-alexander-grey-3866851.jpg);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    color:#49243E;
+    font-size: xx-large;
+    gap : 5px;
+}
+p{
+    color:#49243E;
+    text-align: center;
+    font-weight: bolder;
+}
+label{
+    font-weight: bold;
+    font-family: "Gill Sans", sans-serif;
+    color:#704264;
+    font-size: 20px;
+}
+.form-control{
+    background-color: #BB8493;
+}
+.form-select{
+    background-color: #BB8493;
+}
+.button{
+    text-align: center;
+    background-color:#DBAFA0;
+    width: 100px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #704264;
+    font-weight: bold;
+}
